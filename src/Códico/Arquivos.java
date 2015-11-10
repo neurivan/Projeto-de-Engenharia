@@ -6,7 +6,7 @@ public class Arquivos {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Sofware");
-		System.out.println("Códico");
+		
 		System.out.println("Tranferência de arquivos");
 		
 	}
